@@ -98,7 +98,7 @@ namespace Calculator
         {
             return a * b;
         }
-        static int bagi(int a, int b)
+        static double bagi(double a, double b)
         {
             return a / b;
         }
